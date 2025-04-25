@@ -7,6 +7,9 @@ function App() {
     <h1>Ali</h1>
     <h1>hello world</h1>
     <div>ali</div>
+    <div>
+      <h1> hello github </h1>
+    </div>
     </div>
   );
 }
