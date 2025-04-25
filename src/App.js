@@ -6,6 +6,7 @@ function App() {
     <div>
     <h1>Ali</h1>
     <h1>hello world</h1>
+    <div>ali</div>
     </div>
   );
 }
